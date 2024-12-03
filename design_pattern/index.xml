@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>DesignPatterns on 演示站点</title>
-        <link>https://ljr0924.github.io/designpattern/</link>
-        <description>Recent content in DesignPatterns on 演示站点</description>
+        <title>Design_patterns on 演示站点</title>
+        <link>https://ljr0924.github.io/design_pattern/</link>
+        <description>Recent content in Design_patterns on 演示站点</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>小零</copyright>
-        <lastBuildDate>Tue, 03 Dec 2024 18:55:14 +0800</lastBuildDate><atom:link href="https://ljr0924.github.io/designpattern/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Tue, 03 Dec 2024 18:55:14 +0800</lastBuildDate><atom:link href="https://ljr0924.github.io/design_pattern/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Factory_method</title>
-        <link>https://ljr0924.github.io/designpattern/create/factory_method/</link>
+        <link>https://ljr0924.github.io/design_pattern/create/factory_method/</link>
         <pubDate>Tue, 03 Dec 2024 18:55:14 +0800</pubDate>
         
-        <guid>https://ljr0924.github.io/designpattern/create/factory_method/</guid>
+        <guid>https://ljr0924.github.io/design_pattern/create/factory_method/</guid>
         <description>&lt;h1 id=&#34;python-设计模式工厂方法模式&#34;&gt;Python 设计模式：工厂方法模式
 &lt;/h1&gt;&lt;h2 id=&#34;定义&#34;&gt;定义
 &lt;/h2&gt;&lt;p&gt;工厂方法模式是一种创建型设计模式。它定义了一个创建对象的接口，但将对象的实际创建推迟到子类中进行。&lt;/p&gt;
